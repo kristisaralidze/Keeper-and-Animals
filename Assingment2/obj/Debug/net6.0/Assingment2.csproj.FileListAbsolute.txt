@@ -1,0 +1,54 @@
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\Assingment2.exe
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\Assingment2.deps.json
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\Assingment2.runtimeconfig.json
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\Assingment2.pdb
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\TextFile.dll
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.csproj.AssemblyReference.cache
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.AssemblyInfoInputs.cache
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.AssemblyInfo.cs
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.csproj.CopyComplete
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\refint\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.pdb
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\Assingment2.genruntimeconfig.cache
+C:\Users\Kristine\Downloads\Assingment2\obj\Debug\net6.0\ref\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2\bin\Debug\net6.0\inpt.txt
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\inpt.txt
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.exe
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.deps.json
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.runtimeconfig.json
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.pdb
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\bin\Debug\net6.0\TextFile.dll
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.csproj.AssemblyReference.cache
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.AssemblyInfoInputs.cache
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.AssemblyInfo.cs
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.csproj.CopyComplete
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\refint\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.pdb
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.genruntimeconfig.cache
+C:\Users\Kristine\Downloads\Assingment2 final\Assingment2\obj\Debug\net6.0\ref\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\inpt.txt
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.exe
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.deps.json
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.runtimeconfig.json
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\Assingment2.pdb
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\bin\Debug\net6.0\TextFile.dll
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.csproj.AssemblyReference.cache
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.AssemblyInfoInputs.cache
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.AssemblyInfo.cs
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.csproj.CopyComplete
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\refint\Assingment2.dll
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.pdb
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\Assingment2.genruntimeconfig.cache
+C:\Users\Kristine\Downloads\Assingment2 final-1 (1)\Assingment2 final\Assingment2\obj\Debug\net6.0\ref\Assingment2.dll
